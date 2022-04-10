@@ -10,7 +10,7 @@
 
 <h3> :rocket: &nbsp;My skills </h3>
 
-**Applications and Data**
+**Stack**
 
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP&logoColor=007396)
   ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=Laravel&logoColor=007396)
