@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Humble23&color=006bed)
 
-<h3> ✨ &nbsp;Sobre mim </h3>
+<h3> ✨ &nbsp;About me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 💼 &nbsp; Working as **PHP Developer - Backend** at <a href="https://www.linkedin.com/company/tictobrasil/">Ticto Brasil</a>
