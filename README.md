@@ -4,13 +4,13 @@
 
 <h3> ✨ &nbsp;Sobre mim </h3>
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 💼 &nbsp; Trabalhando como **Desenvolvedor PHP - Back-end** na <a href="https://www.linkedin.com/company/tictobrasil/">Ticto Brasil</a>
-- 🔄 &nbsp; Aprendendo mais sobre **Infraestrutura e padrões de projetos**
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
+- 💼 &nbsp; Working as **PHP Developer - Backend** at <a href="https://www.linkedin.com/company/tictobrasil/">Ticto Brasil</a>
+- 🔄 &nbsp; Learning more about **Infrastructure and Design Patterns**
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+<h3> :rocket: &nbsp;My skills </h3>
 
-**Aplicações e Dados**
+**Applications and Data**
 
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP&logoColor=007396)
   ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=Laravel&logoColor=007396)
@@ -21,7 +21,7 @@
   ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
-**Utilidades**
+**Utilities**
 
   ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
@@ -33,7 +33,7 @@
   ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
-**Ferramentas de Desenvolvimento**
+**Development Tools**
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   
@@ -48,7 +48,7 @@
 
 <br/>
 
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+<h3> :earth_americas: &nbsp;Where to find me: </h3> 
 
 [![Linkedin: Edilson Fernandes](https://img.shields.io/badge/-Edilson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edilson-fernandes-68a16b150/)](https://www.linkedin.com/in/edilson-fernandes-68a16b150/)
 [![Gmail Badge](https://img.shields.io/badge/-edilsonfernandes312@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:edilsonfernandes312@gmail.com)](mailto:SEU-EMAIL)
