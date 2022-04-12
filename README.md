@@ -6,7 +6,7 @@
 <h3> ✨ &nbsp;About me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 💼 &nbsp; Working as **PHP Developer - Backend** at <a href="https://www.linkedin.com/company/tictobrasil/">Ticto Brasil</a>
+- 💼 &nbsp; Working as **PHP Developer** at <a href="https://www.linkedin.com/company/tictobrasil/">Ticto Brasil</a>
 - 🔄 &nbsp; Learning more about **Infrastructure and Design Patterns**
 
 <h3> :rocket: &nbsp;My skills </h3>
