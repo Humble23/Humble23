@@ -1,5 +1,5 @@
 
-## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## Hi there!
 
 ![](https://komarev.com/ghpvc/?username=Humble23&color=006bed)
 
