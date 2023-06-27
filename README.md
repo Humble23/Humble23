@@ -45,10 +45,6 @@
 
 <br/>
 
-<a href="https://github.com/Humble23">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Humble23&theme=dracula&show_icons=true" />
-</a>
-
 <br/>
 
 <h3> :earth_americas: &nbsp;Where to find me: </h3> 
