@@ -43,10 +43,6 @@
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
-<br/>
-
-<br/>
-
 <h3> :earth_americas: &nbsp;Where to find me: </h3> 
 
 [![Linkedin: Edilson Fernandes](https://img.shields.io/badge/-Edilson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edilson-fernandes-68a16b150/)](https://www.linkedin.com/in/edilson-fernandes-68a16b150/)
